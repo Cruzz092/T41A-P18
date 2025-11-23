@@ -41,4 +41,4 @@ jobs:
 
       - name: Ejecutar tests
         run: |
-          python3 tests/test_arrays_grafos.py
+          python3 test/test_excercise.py
